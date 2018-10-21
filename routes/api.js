@@ -77,37 +77,37 @@ router.get("/events", (req, res) => {
   let events = [
     {
       _id: "1",
-      name: "Auto Expo",
+      name: "Comprar Nuggets",
       description: "Lorem Ipsum",
       date: "2018-11-23T18:25:43.511Z"
     },
     {
       _id: "2",
-      name: "Auto Expo",
+      name: "Comer Helado",
       description: "Lorem Ipsum",
       date: "2018-11-23T18:25:43.511Z"
     },
     {
       _id: "3",
-      name: "Auto Expo",
+      name: "Viaje a mardel",
       description: "Lorem Ipsum",
       date: "2018-11-23T18:25:43.511Z"
     },
     {
       _id: "4",
-      name: "Auto Expo",
+      name: "Alguna cosa mas",
       description: "Lorem Ipsum",
       date: "2018-11-23T18:25:43.511Z"
     },
     {
       _id: "5",
-      name: "Auto Expo",
+      name: "Mas cosas",
       description: "Lorem Ipsum",
       date: "2018-11-23T18:25:43.511Z"
     },
     {
       _id: "6",
-      name: "Auto Expo",
+      name: "Fabricar birra",
       description: "Lorem Ipsum",
       date: "2018-11-23T18:25:43.511Z"
     }
